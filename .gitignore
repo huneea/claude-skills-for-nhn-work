@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Claude Code / OMC internal
+.claude/
+.omc/
+
+# cmux plugin skills (managed externally)
+cmux/
+cmux-browser/
+cmux-debug-windows/
+cmux-markdown/
+
+# OMC learned skills (auto-generated)
+omc-learned/
